@@ -1,0 +1,6 @@
+APScheduler==3.6.3
+lxml==4.6.2
+mysql-connector==2.2.9
+PyMySQL==0.10.1
+redis==3.5.3
+requests==2.24.0
